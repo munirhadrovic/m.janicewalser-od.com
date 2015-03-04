@@ -7,7 +7,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <title>Affiliated Mental Health Professionals, S.C.</title>
+        <title>FAMILY EYECARE</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <link rel="shortcut icon" href="../../favicon.ico"> 
         <link rel="stylesheet" type="text/css" href="css/demo.css"/>
@@ -24,19 +24,19 @@
             <li>
             	<span>Image 01</span>
             		<div>
-            			<h3>David McNeil, M.D.</h3>
+            			<h3></h3>
             		</div>
             </li>
-            <li><span>Image 02</span><div><h3>David McNeil, M.D.</h3></div></li>
-            <li><span>Image 03</span><div><h3>Sylvia A. Pawlik</h3></div></li>
-            <li><span>Image 04</span><div><h3>David McNeil, M.D.</h3></div></li>
-            <li><span>Image 05</span><div><h3>Sylvia A. Pawlik</h3></div></li>
-            <li><span>Image 06</span><div><h3>David McNeil, M.D.</h3></div></li>
+            <li><span>Image 02</span><div><h3></h3></div></li>
+            <li><span>Image 03</span><div><h3></h3></div></li>
+            <li><span>Image 04</span><div><h3></h3></div></li>
+            <li><span>Image 05</span><div><h3></h3></div></li>
+            <li><span>Image 06</span><div><h3></h3></div></li>
         </ul>
         <div class="container">
             
             <header>
-                <h1> <span>Affiliated Mental Health Professionals, S.C.</span></h1>
+                <h1><span>FAMILY EYECARE <br> Janice M. Walser. O.D.</span></h1>
 				<p class="codrops-demos">
 					
                     
